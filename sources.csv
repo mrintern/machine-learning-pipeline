@@ -1,0 +1,8 @@
+id,name,description,url,category,language,country
+national-geographic,National Geographic,Reporting our world daily: original nature and science news from National Geographic.,http://news.nationalgeographic.com,science,en,us
+new-scientist,New Scientist,"Breaking science and technology news from around the world. Exclusive stories and expert analysis on space, technology, health, physics, life and Earth.",https://www.newscientist.com/section/news,science,en,us
+next-big-future,Next Big Future,"Coverage of science and technology that have the potential for disruption, and analysis of plans, policies, and technology that enable radical improvement.",https://www.nextbigfuture.com,science,en,us
+bloomberg,Bloomberg,"Bloomberg delivers business and markets news, data, analysis, and video to the world, featuring stories from Businessweek and Bloomberg News.",http://www.bloomberg.com,business,en,us
+business-insider,Business Insider,"Business Insider is a fast-growing business site with deep financial, media, tech, and other industry verticals. Launched in 2007, the site is now the largest business news site on the web.",http://www.businessinsider.com,business,en,us
+fortune,Fortune,Fortune 500 Daily and Breaking Business News,http://fortune.com,business,en,us
+the-wall-street-journal,The Wall Street Journal,"WSJ online coverage of breaking news and current headlines from the US and around the world. Top stories, photos, videos, detailed analysis and in-depth reporting.",http://www.wsj.com,business,en,us
