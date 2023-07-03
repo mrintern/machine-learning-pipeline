@@ -1,5 +1,6 @@
 # machine-learning-pipeline
-As a part of a final round interview for the position of "Senior Data Engineer", I was asked to create a machine learning pipeline from scratch. 
+I made this machine learning pipeline to show recruiters an example of my skills in data engineering and my style of writing and documenting code. 
+
 The pipeline does the following:
 1. Sends a request to the NewsAPI's /sources endpoint (https://newsapi.org/)
 2. Creates `sources.csv` from the API response
