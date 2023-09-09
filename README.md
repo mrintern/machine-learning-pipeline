@@ -1,3 +1,4 @@
+TODO: implement pipeline as an airflow DAG
 # machine-learning-pipeline
 I made this machine learning pipeline to show recruiters an example of my skills in data engineering and my style of writing and documenting code. 
 
